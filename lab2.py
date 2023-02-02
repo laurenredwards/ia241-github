@@ -36,3 +36,7 @@ print(my_name * 3)
 #6.9
 print('hello, world. This is my first python string.'.split('.'))
 
+#6.10
+#message='Tom's id is 123'
+
+
