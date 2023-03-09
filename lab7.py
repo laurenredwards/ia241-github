@@ -4,7 +4,7 @@ while Loop
 '''
 
 #3.1
-i = 5
+i = 6
 while i>=0:
     i=i-1
     if i ==3:
